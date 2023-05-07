@@ -1,0 +1,40 @@
+li / ol<숫자 자동정렬> / ul<리스트 정렬. 동그라미>
+<h> 태그 글씨색 변경
+<h> 태그의 글씨색 변경은 style 속성을 삽입하고, color 속성값을 삽입해서 사용합니다. 색은 blue와 같은 색 이름이나 #417556과 같은 HEX 코드 등을 사용합니다.
+
+<h1>미확인 물체의 종류</h1>
+  <h2 style="color:#417556;">UFO(미확인 비행 물체)</h2>
+  <h2 style="color:blue;">USO(미확인 수중 물체)</h2>
+예제 ▷
+
+<h> 태그 배경색 변경
+<h> 태그의 배경색 변경은 style 속성에 background-color 속성값을 추가해서 변경합니다.
+
+<h2 style="background-color:gray;">그레이 출신지에 대한 가설</h2>
+  <h3>오리온자리</h3>
+  <h3>지저 인류</h3>
+  <h3 style="background-color:orange;">미래인류의 시간 여행</h3>
+  <h3>웜홀로 온 영적존재</h3>
+  <h3>포유류 파충류 합성</h3>
+  <h3 style="background-color:green;">홀로그램</h3>
+  <h3>해상동물의 진화</h3>
+예제 ▷
+
+<h> 태그 테두리 삽입
+<h> 태그의 테두리 삽입은 style 속성에 border 속성값으로 작성합니다. px은 테두리 두께, solid/dotted는 선의 종류, black/blue는 선의 색을 정의합니다.
+
+<h1 style="border:1px solid black;">로스웰 UFO 추락 사건</h1>
+  <h2>날짜 : 1947.07.02</h2>
+  <h2>장소 : 미국 뉴멕시코주 남도우 로스웰</h2>
+  <h2>사건 : 미확인 비행 물체 추락</h2>
+  <h2 style="border:2px dotted blue;">관측된 속도 : 시속 2,560km</h2>
+예제 ▷
+
+<h> 태그 글씨체 변경
+<h> 태그 글씨체 변경은 style 속성에 font-family 속성값 추가로 작성됩니다.
+
+<h1 style="font-family:궁서체;">51 구역</h1>
+  <h2>위치 : 미국 네바다주 하단부</h2>
+  <h2 style="font-family:바탕체;">정식명칭 : 그룸 호수 공군 기지</h2>
+  <h2>면적 : 서울 x 2배</h2>
+  <h2>영공 항공기 통과 불가</h2>
